@@ -1,7 +1,8 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Ildar Gnn](https://htmlacademy.ru/profile/ildar-gn).
-* Наставник: `Неизвестно`.
+* Наставник: [(=^_^=)](https://htmlacademy.ru/upload/images/sources/20241019_625195c2.png).
+* Страница проекта: [Cat Energy](https://ildar-gn.github.io/cat-energy-2/).
 
 ---
 
@@ -20,7 +21,7 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/2628513-cat-energy-2) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/jnxpro/cat-energy-2) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
 <img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808133-3a7ace00-a190-11e9-9d29-401b02036a9c.jpg">
 
