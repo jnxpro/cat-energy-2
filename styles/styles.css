@@ -1,1 +1,1 @@
-.header{color:#fff;background-color:#639;padding:10px 15px}
+body{grid-template-rows:auto 1fr auto;min-height:100vh;margin:0;display:grid}.header{color:#fff;background-color:#08672b;padding:10px 15px}
